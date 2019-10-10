@@ -81,7 +81,7 @@
         <reverted_from/>
         <source>9ec6a0a3fd500010aa16358e75ed267d</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-10 21:05:58</sys_created_on>
         <sys_id>a3976ca3fd500010aa16358e75ed2687</sys_id>
