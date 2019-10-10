@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_demo_child</description>
+        <name>x_demo_child</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 21:10:37</sys_created_on>
+        <sys_id>27a8a8e3fd500010aa16358e75ed26ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_demo_child</sys_name>
+        <sys_package display_value="demo" source="x_demo">c111d427fd100010aa16358e75ed26dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo">c111d427fd100010aa16358e75ed26dc</sys_scope>
+        <sys_update_name>sys_security_acl_27a8a8e3fd500010aa16358e75ed26ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 21:10:37</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
